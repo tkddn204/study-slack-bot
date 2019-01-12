@@ -1,4 +1,4 @@
-# slack-bot-study
+# study-slack-bot
 study slack bot project.
 
 ## how to start
